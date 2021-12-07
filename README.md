@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Narenkp
+- 👋 Hi, I’m @Naren
 - 👀 I’m interested in latest technologies, Software patterns, Architecture
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
